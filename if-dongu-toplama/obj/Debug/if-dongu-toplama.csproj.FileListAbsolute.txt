@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\bin\Debug\if-dongu-toplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\bin\Debug\if-dongu-toplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\bin\Debug\if-dongu-toplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if_dongu_toplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if_dongu_toplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\if-dongu-toplama\if-dongu-toplama\obj\Debug\if-dongu-toplama.pdb
